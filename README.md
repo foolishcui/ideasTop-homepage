@@ -22,9 +22,9 @@
 
 * 尽兴体育
 * 文身圈
-* 北京团向公司
+* 北京团兴公司
 
-### 联系方式 
+### 联系方式
 
 ```
 北京忘记科技有限公司
@@ -33,3 +33,7 @@ Wechat: jobslong
 P: +(86)185-0022-7390
 北京市朝阳区平乐园100号(北京工业大学)知行楼 824 室
 
+### ideasTop-homepage
+Homepage for ideasTop Co.,ltd.
+
+![Homepage](http://oecqpajm1.bkt.clouddn.com/16-10-8/73220944.jpg)
